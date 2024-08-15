@@ -48,5 +48,5 @@ To learn more about Supabase, take a look at the following resources:
 ## Prisma Control
 
 To learn more about Supabase, take a look at the following resources:
--[Documentation](https://www.prisma.io/docs/getting-started) - Getting started with prisma
+- [Documentation](https://www.prisma.io/docs/getting-started) - Getting started with prisma
 
