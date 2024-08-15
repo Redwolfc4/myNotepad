@@ -9,11 +9,26 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@prisma/client": "^5.18.0",
+    "@vercel/postgres": "^0.9.0",
+    "db-migrate-pg": "^1.5.2",
+    "dotenv": "^16.4.5",
+    "framer-motion": "^11.3.24",
+    "lorem-ipsum": "^2.0.8",
+    "material-icons": "^1.13.12",
+    "next": "14.2.5",
+    "pg": "^8.12.0",
+    "prisma": "^5.18.0",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.5"
+    "react-dom": "^18"
   },
   "devDependencies": {
+    "@types/node": "22.2.0",
+    "@types/react": "18.3.3",
     "eslint": "^8",
     "eslint-config-next": "14.2.5"
   }
