@@ -38,3 +38,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## PostgreSQL supabase
+
+To learn more about Supabase, take a look at the following resources:
+- [Sign In Supabase](https://supabase.com/dashboard/sign-in?returnTo=%2Fprojects) - Sigin and Create Database Table PostgreSQL
+- [Learn Supabase](https://supabase.com/docs) - an postgresql supabase documentation
+
+## Prisma Control
+
+To learn more about Supabase, take a look at the following resources:
+-[Documentation](https://www.prisma.io/docs/getting-started) - Getting started with prisma
+
